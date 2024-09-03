@@ -4,6 +4,8 @@
 
 - [Tic-Tac-Toe](https://github.com/raisemybars/tictactoe)
 
+- [Video Game Income Tracker](https://github.com/raisemybars/BossingIncome)
+
 - Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)
   
 - PowerShell
